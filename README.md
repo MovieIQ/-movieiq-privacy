@@ -1,0 +1,2 @@
+# -movieiq-privacy
+Privacy Policy
